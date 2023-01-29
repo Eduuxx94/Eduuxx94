@@ -2,6 +2,12 @@
 
 <p align="center" width="150px"> I am passionate about computer science and always seeking to learn and discover new and exciting advancements in the field. Driven by a love of discovery and staying up-to-date with the latest news and trends.</p>
 
+- 👀 I’m interested in Software development and Game Development!
+- 🔭 I'm studying in <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
+- 🌱 I’m currently learning Back-end development 
+- 📫 How to reach me eduuxx94@gmail.com
+- 🚀 Hire me: https://www.linkedin.com/in/eduardo-mcarneiro/
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuxx94&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=eduuxx94&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=eduuxx94&theme=chartreuse-dark"></p>
