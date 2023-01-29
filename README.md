@@ -6,7 +6,7 @@
 - 🔭 I'm studying in <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
 - 🌱 I’m currently learning Back-end development 
 - 📫 How to reach me eduuxx94@gmail.com
-- 🚀 Hire me: https://www.linkedin.com/in/eduardo-mcarneiro/
+- 🚀 Follow me: <a href="https://www.linkedin.com/in/eduardo-mcarneiro/" target="_blank">Linkedin</a>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuxx94&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=eduuxx94&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
