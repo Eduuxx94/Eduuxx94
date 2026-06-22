@@ -25,7 +25,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://eduardo-carneiro.pt/blog"><img src="https://img.shields.io/badge/-eduardo_carneiro.pt-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://lusisoft.com"><img src="https://img.shields.io/badge/-lusisoft.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/eduardo-mcarneiro"><img src="https://img.shields.io/badge/-Eduardo%20Carneiro-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eduuxx94@gmail.com"><img src="https://img.shields.io/badge/-eduuxx94@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
